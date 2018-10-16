@@ -33,7 +33,7 @@ h3 {
     transition: 0.5s all ease-in-out; 
 }
 
-.container-fluid{
+.container-fluid:hover{
     box-shadow: 0 5px 2.5px 0 rgba(0,0,0,0.5);
     transform: translateY(-5px);
 }

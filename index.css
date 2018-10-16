@@ -1,9 +1,9 @@
 
 body {
-    background-color: #FFFFFF;
+    background-color: #303030;
     padding: 0px;
     margin: 0px;
-    color: #303030;
+    color: #E8E8E8;
 }
 
 h1,h3 {
@@ -27,17 +27,6 @@ h3 {
    min-height: 55vh;
    max-height: 55vh;
 }
-
-.container-fluid{
-    box-shadow: 0 10px 5px 0 rgba(0,0,0,0.5);
-    transition: 0.5s all ease-in-out; 
-}
-
-.container-fluid:hover{
-    box-shadow: 0 5px 2.5px 0 rgba(0,0,0,0.5);
-    transform: translateY(-5px);
-}
-
 #wrap {
    min-height: 55vh;
 }

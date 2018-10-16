@@ -40,6 +40,51 @@ path: `startStation/startTime.json` (first letter needs to be capitalized)
 }
 ```
 
+path: `DI/09:05.json`
+```json
+{
+    "timing":"09:05",
+    "path":{
+        "start":"DI",
+        "end":"CSMT"
+    },
+    "type": "Slow"
+}
+```
+
+## Station Codes  
+Station Code | Station Name |
+--- | --- |
+CSMT | Chhatrapati Shivaji Maharaj Terminal |
+BY | Byculla |
+C | Kurla |
+V | Vidyavihar |
+D | Dadar |
+T | Thane |
+DI | Dombivli |
+K | Kalyan |
+A | Ambernath |
+BL | Badlapur |
+TI | Titwala |
+AS | Asangaon |
+N | Kasara |
+S | Karjat |
+KP | Khopoli |
+G | Ghatkopar |
+CH | Churchgate |
+B | Bandra |
+AD | Andheri |
+BO | Borivali |
+BY | Bhayandar |
+BS | Vasai Road |
+V | Virar |
+DN | Dahanu |
+VS | Vashi |
+NU | Nerul |
+PL | Panvel |
+
+
+
 ## Hall of Fame :fire:
 
 Check out the [Hall of Fame]() for a list of contributors with a minimum of one commit with their gravatar. To know more about a contributor, click on the gravatar to go to their github profile.

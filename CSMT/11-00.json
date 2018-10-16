@@ -1,0 +1,8 @@
+{
+    "timing":"11:00",
+    "path":{
+        "start":"CSMT",
+        "end":"THANE"
+    },
+    "type": "Slow"
+}

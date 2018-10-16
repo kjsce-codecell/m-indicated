@@ -1,0 +1,8 @@
+{
+    "timing": "19:14",
+    "path": {
+        "start":"CH",
+        "end":"BO"
+    },
+    "type": "Slow"
+}

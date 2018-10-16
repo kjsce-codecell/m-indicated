@@ -1,9 +1,9 @@
 
 body {
-    background-color: #303030;
+    background-color: #E8E8E8;
     padding: 0px;
     margin: 0px;
-    color: #E8E8E8;
+    color: #303030;
 }
 
 h1,h3 {
@@ -27,6 +27,17 @@ h3 {
    min-height: 55vh;
    max-height: 55vh;
 }
+
+.col-md-3{
+    box-shadow: 0 10px 5px 0 rgba(0,0,0,0.5);
+    transition: 0.5s all ease-in-out; 
+}
+
+.col-md-3:hover{
+    box-shadow: 0 5px 2.5px 0 rgba(0,0,0,0.5);
+    transform: translateY(-5px);
+}
+
 #wrap {
    min-height: 55vh;
 }

@@ -40,7 +40,7 @@ path: `startStation/startTime.json` (first letter needs to be capitalized)
 }
 ```
 
-path: `DI/09:05.json`
+path: `DI/09-05.json`
 ```json
 {
     "timing":"09:05",

@@ -77,7 +77,7 @@ AD | Andheri |
 BO | Borivali |
 BY | Bhayandar |
 BS | Vasai Road |
-V | Virar |
+VR | Virar |
 DN | Dahanu |
 VS | Vashi |
 NU | Nerul |

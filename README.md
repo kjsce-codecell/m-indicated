@@ -87,4 +87,4 @@ PL | Panvel |
 
 ## Hall of Fame :fire:
 
-Check out the [Hall of Fame]() for a list of contributors with a minimum of one commit with their gravatar. To know more about a contributor, click on the gravatar to go to their github profile.
+Check out the [Hall of Fame](https://www.kjscecodecell.com/m-indicated/) for a list of contributors with a minimum of one commit with their gravatar. To know more about a contributor, click on the gravatar to go to their github profile.

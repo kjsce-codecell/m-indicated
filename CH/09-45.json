@@ -1,8 +1,8 @@
 {
     "timing": "945",
     "path": {
-        "start":"Churchgate",
-        "end":"Dadar"
+        "start":"CH",
+        "end":"D"
     },
     "type": "Fast"
 }

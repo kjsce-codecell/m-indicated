@@ -1,8 +1,8 @@
 {
     "timing": "08:41",
     "path": {
-        "start":"CHURCHGATE",
-        "end":"VIRAR"
+        "start":"CH",
+        "end":"VR"
     },
     "type": "Slow"
 }

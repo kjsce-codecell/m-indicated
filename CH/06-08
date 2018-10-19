@@ -1,0 +1,8 @@
+{
+    "timing": "startTime_in_06-08_in 24 hour format",
+    "path": {
+        "start":"startStation",
+        "end":"endStation"
+    },
+    "type": "Fast/Slow"
+}

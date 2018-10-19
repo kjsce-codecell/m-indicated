@@ -1,0 +1,8 @@
+{
+    "timing": "07:00",
+    "path": {
+        "start":"CHURCHGATE",
+        "end":"BANDRA"
+    },
+    "type": "Slow"
+}

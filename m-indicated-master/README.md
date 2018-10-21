@@ -75,7 +75,7 @@ CH | Churchgate |
 B | Bandra |
 AD | Andheri |
 BO | Borivali |
-BHY | Bhayandar |
+BY | Bhayandar |
 BS | Vasai Road |
 VR | Virar |
 DN | Dahanu |

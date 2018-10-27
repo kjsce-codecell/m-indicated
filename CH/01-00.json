@@ -1,8 +1,8 @@
 {
     "timing": "01:00",
     "path": {
-        "start":"CHURCHGATE",
-        "end":"BORIVALI"
+        "start":"CH",
+        "end":"BO"
     },
     "type": "Slow"
 }

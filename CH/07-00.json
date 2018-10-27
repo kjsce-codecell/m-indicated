@@ -1,7 +1,7 @@
 {
     "timing": "07:00",
     "path": {
-        "start":"CHURCHGATE",
+        "start":"CH",
         "end":"BANDRA"
     },
     "type": "Slow"
